@@ -32,4 +32,4 @@ aka CLV, LTV
 
 ---
 
-*Brought to you by [Tresl](https://tresl.co) and our app [Segments](https://segments.tresl.co), the full suite of data science tools to grow your ecommerce store.
+*Brought to you by [Tresl](https://tresl.co) and our app [Segments](https://segments.tresl.co), the full suite of data science tools to grow your ecommerce store.*
