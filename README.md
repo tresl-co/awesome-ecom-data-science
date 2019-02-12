@@ -16,9 +16,11 @@ aka CLV, LTV
 * [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes): 💸 Open source Python library to calculate CLV
 * [LTV:CAC in 2019](https://blog.rechargepayments.com/current-trends-why-ltv-should-be-your-only-focus-in-2019/): 📰 Overview of the rising ad cost landscape and strategies for improving LTV:CAC in 2019
 
-## Analytics
+## Tracking
 
 * [Google Analytics](https://analytics.google.com/analytics/web/): 💸 Ubiquitous and still the gold standard
+* [FullStory](https://www.fullstory.com/): 💵💰 Site recordings to view user behavior
+* [Hotjar](https://www.hotjar.com/): 💵💰 Site recordings and heatmaps to view user behavior (similar to FullStore)
 
 ## Segmentation
 
@@ -27,3 +29,7 @@ aka CLV, LTV
 ## Market Research
 
 * [Google Trends](): 💸 Free keyword search trends across the globe
+
+---
+
+*Brought to you by [Tresl](https://tresl.co) and our app [Segments](https://segments.tresl.co), the full suite of data science tools to grow your ecommerce store.
