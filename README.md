@@ -3,10 +3,14 @@
 Curated list of awesome ecommerce data science resources 📊💎💪
 
 💸: Free
+
 💵: Free version
+
 💰: Paid
+
 📰: Article/blog
-![Shopify](img/shopify.png): Shopify
+
+<img src="img/shopify.png" height:1em>: Shopify
 
 ---
 
