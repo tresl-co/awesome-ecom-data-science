@@ -10,7 +10,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 
 📰: Article/blog
 
-<img src="img/shopify.png" style="height:1em">: Shopify
+🛍: Shopify
 
 ---
 
@@ -27,9 +27,9 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 
 ## Analytics
 
-* [Segments by Tresl](https://segments.tresl.co): 💵💰 Business intelligence, insights, and advanced analytics to supercharge your store
-* [Glew](https://glew.io/): 💰 Ecommerce Analytics and Business Intelligence Software
-* [Compass](https://www.compass.co/): 💵💰 Compass makes sense of your e‑commerce data so you can focus on building your business
+* [Segments by Tresl](https://segments.tresl.co): 🛍💵💰 Business intelligence, insights, and advanced analytics to supercharge your store
+* [Glew](https://glew.io/): 🛍💰 Ecommerce Analytics and Business Intelligence Software
+* [Compass](https://www.compass.co/): 🛍💵💰 Compass makes sense of your e‑commerce data so you can focus on building your business
 
 ## Market Research
 
