@@ -10,7 +10,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 
 📰: Article/blog
 
-<img src="img/shopify.png" height:1em>: Shopify
+<img src="img/shopify.png" style="height:1em">: Shopify
 
 ---
 
