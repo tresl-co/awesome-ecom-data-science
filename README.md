@@ -34,6 +34,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 ## Market Research
 
 * [Google Trends](https://trends.google.com/trends/): 💸 Free keyword search trends across the globe
+* [Shopify Sites Traffic](https://myip.ms/browse/sites/1/ipID/23.227.38.64/ipIDii/23.227.38.64): 💸🛍 Top Shopify-hosted sites based on IP traffic
 
 ---
 
