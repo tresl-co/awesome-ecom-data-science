@@ -36,6 +36,11 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 * [Google Trends](https://trends.google.com/trends/): 💸 Free keyword search trends across the globe
 * [Shopify Sites Traffic](https://myip.ms/browse/sites/1/ipID/23.227.38.64/ipIDii/23.227.38.64): 💸🛍 Top Shopify-hosted sites based on IP traffic
 
+## Experimentation
+
+* [Google Optimize](https://optimize.google.com): 💸 A/B testing platform with visual editor. Integrated with Google Analytics (obviously!) and Goals
+* [Landing page A/B testing](https://www.julian.com/guide/growth/ab-testing): 📰 Guide on why and how to set up A/B testing for landing pages, from Julian's Growth Marketing guide.
+
 ---
 
 <br>
