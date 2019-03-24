@@ -32,6 +32,8 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 
 * [Automizy](https://automizy.com/): 💰 AI-powered Subject Line Analyzer, AB testing, Resend and Email Automation
 * [Klaviyo](https://www.klaviyo.com/): 🛍💵💰 Super-targeted, highly relevant email, Facebook and Instagram marketing
+* [ActiveCampaign](https://www.activecampaign.com/): 🛍💰 Email Marketing. Marketing Automation. Sales CRM. Messaging.
+* [Omnisend](https://omnisend.com): 🛍💰 Omnichannel Marketing Automation
 
 ## Experimentation
 
