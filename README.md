@@ -13,13 +13,14 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 
 ## Analytics & Optimization
 
-* [Segments by Tresl](https://segments.tresl.co): 🛍💵💰 The best customer analytics app to supercharge your store
+* [Segments](https://segments.tresl.co): 🛍💵💰 The best customer analytics app to supercharge your store
 * [Glew](https://glew.io/): 🛍💰 Ecommerce Analytics and Business Intelligence Software
 * [Compass](https://www.compass.co/): 🛍💵💰 Compass makes sense of your e‑commerce data so you can focus on building your business
 * [Shoelace](http://shoelace.com/): 🛍💰 Customer journey retargeting
 * [Justuno](https://www.justuno.com/): 💰 Analytics suite for converting visitors to customers
 * [Custora](https://www.custora.com/): 💰 Customer analytics platform
 * [Nosto](https://www.nosto.com): 🛍💰 AI-powered personalization platform
+* [OrderMetrics](https://ordermetrics.com): 🛍💰 Profit Analytics for E‑Commerce
 
 ## Tracking
 
