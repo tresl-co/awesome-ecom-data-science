@@ -3,7 +3,7 @@
 Curated list of awesome ecommerce data science resources 📊💎💪
 (no particular order)
 
-🛍 Shopify<br>
+🛍 Shopify integrated<br>
 📰 Article/blog<br>
 💸 Free<br>
 💵 Free version<br>
@@ -31,6 +31,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 ## Email Marketing Automation
 
 * [Automizy](https://automizy.com/): 💰 AI-powered Subject Line Analyzer, AB testing, Resend and Email Automation
+* [Klaviyo](https://www.klaviyo.com/): 🛍💵💰 Super-targeted, highly relevant email, Facebook and Instagram marketing
 
 ## Experimentation
 
@@ -51,4 +52,4 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 
 <br>
 
-*Brought to you by [Tresl](https://tresl.co) and our app [Segments](https://segments.tresl.co), your personal data scientist to grow your ecommerce store.*
+*Brought to you by [Tresl](https://tresl.co) and our customer analytics ecommerce app [Segments](https://segments.tresl.co), your personal data scientist to grow your ecommerce store.*
