@@ -26,7 +26,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 * [FullStory](https://www.fullstory.com/): 💵💰 Site recordings to view user behavior
 * [Hotjar](https://www.hotjar.com/): 💵💰 Site recordings and heatmaps to view user behavior (similar to FullStory)
 
-# Email Marketing Automation
+## Email Marketing Automation
 
 * [Automizy](https://automizy.com/): 💰 AI-powered Subject Line Analyzer, AB testing, Resend and Email Automation
 
