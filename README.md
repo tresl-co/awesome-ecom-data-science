@@ -3,11 +3,11 @@
 Curated list of awesome ecommerce data science resources 📊💎💪
 (no particular order)
 
+🛍 Shopify<br>
+📰 Article/blog<br>
 💸 Free<br>
 💵 Free version<br>
 💰 Paid<br>
-📰 Article/blog<br>
-🛍 Shopify
 
 ---
 
@@ -19,6 +19,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 * [Shoelace](http://shoelace.com/): 🛍💰 Customer journey retargeting
 * [Justuno](https://www.justuno.com/): 💰 Analytics suite for converting visitors to customers
 * [Custora](https://www.custora.com/): 💰 Customer analytics platform
+* [Nosto](https://www.nosto.com): 🛍💰 AI-powered personalization platform
 
 ## Tracking
 
