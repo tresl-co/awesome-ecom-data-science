@@ -21,6 +21,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 * [Custora](https://www.custora.com/): 💰 Customer analytics platform
 * [Nosto](https://www.nosto.com): 🛍💰 AI-powered personalization platform
 * [OrderMetrics](https://ordermetrics.com): 🛍💰 Profit Analytics for E‑Commerce
+* [Metorik](https://metorik.com/): 💰 Analytics and management tool for WooCommerce
 
 ## Tracking
 
