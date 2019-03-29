@@ -39,6 +39,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 ## Experimentation
 
 * [Google Optimize](https://optimize.google.com): 💸 A/B testing platform with visual editor. Integrated with Google Analytics (obviously!) and Goals
+* [VWO](https://vwo.com/): 💰 A/B Testing and Conversion Optimization Platform
 * [Landing page A/B testing](https://www.julian.com/guide/growth/ab-testing): 📰 Guide on why and how to set up A/B testing for landing pages, from Julian's Growth Marketing guide.
 
 ## Customer Lifetime Value
