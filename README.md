@@ -22,6 +22,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 * [Nosto](https://www.nosto.com): 🛍💰 AI-powered personalization platform
 * [OrderMetrics](https://ordermetrics.com): 🛍💰 Profit Analytics for E‑Commerce
 * [Metorik](https://metorik.com/): 💰 Analytics and management tool for WooCommerce
+* [Lifetimely](https://lifetimely.io/): 🛍💰 Lifetime value and profit analytics
 
 ## Tracking
 
