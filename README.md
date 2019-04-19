@@ -23,6 +23,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 * [OrderMetrics](https://ordermetrics.com): 🛍💰 Profit Analytics for E‑Commerce
 * [Metorik](https://metorik.com/): 💰 Analytics and management tool for WooCommerce
 * [Lifetimely](https://lifetimely.io/): 🛍💰 Lifetime value and profit analytics
+* [Grow.com](https://www.grow.com/): 🛍💰 Business intelligence with lots of data integrations
 
 ## Tracking
 
