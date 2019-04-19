@@ -30,6 +30,7 @@ Curated list of awesome ecommerce data science resources 📊💎💪
 * [Google Analytics](https://analytics.google.com/analytics/web/): 💸 Ubiquitous and still the gold standard
 * [FullStory](https://www.fullstory.com/): 💵💰 Site recordings to view user behavior
 * [Hotjar](https://www.hotjar.com/): 💵💰 Site recordings and heatmaps to view user behavior (similar to FullStory)
+* [Segment](https://segment.com): 💵💰 Data connector to and from different sources
 
 ## Email Marketing Automation
 
